@@ -16,8 +16,9 @@ Veri setinde bulunan özellikler şunlardır;
 * Turbidity
 * Potability
 #### Sonuç
-Sınıflandırma işlemi için makine öğrenmesi algoritmalarından Decision Tree ve Random Forest kullanılmış ; algoritmaların başarıları confussion matrix ve precision score araçları ile ölçülmüştür <br>
-Proje doğrultusunda Random Forest algoritmasının Decision Tree algoritmasına göre daha iyi çalıştığı sonucuna ulaşılmıştır.
+Sınıflandırma işlemi için makine öğrenmesi algoritmalarından Decision Tree ve Random Forest kullanılmış ; algoritmaların başarıları confussion matrix ve precision score araçları ile ölçülmüştür. <br>
+Proje doğrultusunda Random Forest algoritmasının Decision Tree algoritmasına göre daha iyi çalıştığı sonucuna ulaşılmıştır. <br>
+
 ![waterquality-cm](https://github.com/gulerkandeger/DecisionTree-RandomForest-Classification/assets/77187949/0e961f3b-b2c3-4afd-a139-16b3e1336340)
 ![waterquality-rf-cm](https://github.com/gulerkandeger/DecisionTree-RandomForest-Classification/assets/77187949/3c860ed4-04d3-401b-ae20-639376183ea8)
 
